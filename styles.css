@@ -59,7 +59,7 @@ a:visited {
 
 @media (max-width: 768px) {
     #pasta {
-        width: 90%;
+        max-width: 90%;
         margin-top: 80px;
     }
 
